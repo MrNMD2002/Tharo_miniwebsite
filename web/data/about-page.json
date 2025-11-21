@@ -1,0 +1,46 @@
+{
+  "hero": {
+    "title": "Về Tharo",
+    "subtitle": "Nơi gìn giữ và tôn vinh nét đẹp truyền thống Việt Nam qua từng tà áo dài",
+    "backgroundImage": "",
+    "backgroundColor": "#8B1538",
+    "isVisible": true
+  },
+  "story": {
+    "heading": "Câu chuyện của chúng tôi",
+    "content": "THARO ra đời với niềm đam mê gìn giữ giá trị văn hoá truyền thống của Việt Nam. Nhận thấy áo dài không chỉ là trang phục mà còn là biểu tượng tinh thần, chúng tôi đã quyết tâm mang hơi thở hiện đại vào những thiết kế áo dài, nhằm tiếp cận thế hệ trẻ.\n\nTuy mới bắt đầu, khách hàng chưa nhiều, chúng tôi vẫn dành trọn tâm huyết vào từng chi tiết, từ việc chọn thiết kế cái từng chỉ tiết nhỏ như cải thiếp, cái tem,... Dù hành trình phía trước còn nhiều thử thách, THARO tin rằng sự khác biệt và tình yêu dành cho áo dài sẽ giúp thu hút khách hàng, biến uớc mơ lan toả vẻ đẹp áo dài thành hiện thực.\n                                       - Tharo-",
+    "isVisible": true
+  },
+  "mission": {
+    "heading": "Sứ mệnh cốt lõi",
+    "content": "Tôn vinh vẻ đẹp của người phụ nữ Việt Nam thông qua những thiết kế áo dài tinh tế, sang trọng và đầy cảm xúc. Mỗi sản phẩm của Tharo đều được chăm chút tỉ mỉ từ khâu thiết kế, lựa chọn chất liệu đến hoàn thiện.\n\nGiá trị cốt lõi\n✓ Chất lượng cao cấp, đường may tỉ mỉ\n✓ Thiết kế độc đáo, sáng tạo\n✓ Tôn trọng truyền thống văn hóa\n✓ Phục vụ tận tâm, chuyên nghiệp",
+    "isVisible": true
+  },
+  "coreValues": {
+    "heading": "Tại sao chọn THARO?",
+    "items": [
+      {
+        "id": "value-1",
+        "text": "Chất lượng cao cấp, đường may tỉ mỉ",
+        "order": 1
+      },
+      {
+        "id": "value-2",
+        "text": "Thiết kế độc đáo, sáng tạo",
+        "order": 2
+      },
+      {
+        "id": "value-3",
+        "text": "Tôn trọng truyền thống văn hóa",
+        "order": 3
+      },
+      {
+        "id": "value-4",
+        "text": "Phục vụ tận tâm, chuyên nghiệp",
+        "order": 4
+      }
+    ],
+    "isVisible": true
+  },
+  "updatedAt": "2025-11-21T17:45:45.600Z"
+}

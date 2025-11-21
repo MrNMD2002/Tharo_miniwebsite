@@ -1,0 +1,434 @@
+[
+  {
+    "id": "1",
+    "name": "Áo dài AN",
+    "slug": "ao-dai-an",
+    "price": 580000,
+    "originalPrice": 1500000,
+    "description": "Thiết kế truyền thống với chất liệu lụa tơ tằm cao cấp, mềm mại và thoáng mát. Màu hồng phấn nhẹ nhàng tôn lên vẻ nữ tính.",
+    "material": "Lụa tơ tằm",
+    "primaryColor": "Đỏ",
+    "colors": [
+      "Hồng phấn",
+      "Trắng kem",
+      "Xanh pastel",
+      "Đỏ"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/uploads/1763729905112_An_1.jpg",
+      "/uploads/1763729906889_An_2.jpg",
+      "/uploads/1763729908685_An_3.jpg",
+      "/uploads/1763729911762_An_4.jpg",
+      "/uploads/1763729913954_An_5.jpg"
+    ],
+    "collectionId": "c1",
+    "status": "new",
+    "shopeeLink": "https://shopee.vn",
+    "tiktokLink": "https://tiktok.com",
+    "sortOrder": 1,
+    "createdAt": "2024-11-15T10:00:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "9",
+    "name": "Áo dài San Đỏ",
+    "slug": "ao-dai-san-do",
+    "price": 580000,
+    "description": "Áo dài San đỏ – thiết kế mở màn cho mùa Tết 2026, mang vẻ đẹp cân bằng giữa truyền thống và hiện đại. Không cần quá phô trương, chỉ một gam đỏ tinh tế cũng đủ khiến nàng nổi bật.\nTharo không chạy theo trend, mà chú trọng từng chi tiết để nàng mặc đẹp và cảm thấy tự tin.\n💌 Tharo đã sẵn sàng cho mùa Tết này rồi, còn nàng thì sao?\nBật mí nhỏ: sắp tới sẽ có thêm nhiều mẫu mới – mỗi “Nàng” một sắc riêng, đừng rời mắt khỏi Tharo nhé.",
+    "material": "Gấm/Lụa",
+    "primaryColor": "Đỏ",
+    "colors": [
+      "Đỏ"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/uploads/1763734866633_San_đỏ_1.jpg",
+      "/uploads/1763734871071_San_đỏ_2.jpg"
+    ],
+    "collectionId": "c2",
+    "status": "new",
+    "sortOrder": 1,
+    "createdAt": "2024-11-08T10:00:00.000Z"
+  },
+  {
+    "id": "12",
+    "name": "Áo dài San Hồng",
+    "slug": "ao-dai-san-hong",
+    "price": 580000,
+    "description": "Nếu “San Đỏ” là sắc Tết rực rỡ, thì “San Hồng” là khoảng lặng dịu ngọt của những ngày giáp Xuân. 🌸🌸\nMàu hồng phấn pha ánh lụa, vừa đủ nổi bật trong nắng, vừa giữ lại nét nền nã của áo dài truyền thống. Form vẫn là dáng cổ điển Tharo giữ suốt – tôn dáng, nhẹ, không nhăn, thoáng cả ngày. Điểm nhấn nhỏ ở vai và cổ khiến tổng thể tinh tế hơn mà không cần cầu kỳ.\nMột thiết kế dành cho những ai yêu sự tinh khôi, yêu cảm giác Tết đến thật khẽ mà vẫn tràn đầy.",
+    "material": "Gấm cao cấp",
+    "primaryColor": "Hồng",
+    "colors": [
+      "Hồng"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/uploads/1763735126830_San_hồng_1_-_Copy.jpg",
+      "/uploads/1763735133315_San_hồng_2_-_Copy.jpg"
+    ],
+    "collectionId": "c2",
+    "status": "new",
+    "sortOrder": 12,
+    "createdAt": "2024-11-06T10:00:00.000Z"
+  },
+  {
+    "id": "16",
+    "name": "Áo Dài San Be",
+    "slug": "ao-dai-san-be",
+    "price": 580000,
+    "description": "Áo dài San Be chọn cách đẹp nhẹ nhàng – như nắng sớm đầu năm, vừa đủ để khiến người đối diện phải dừng lại.\nÁnh lụa be phản chiếu dưới nắng nhẹ, từng chuyển động khẽ đều mang theo nét duyên vừa vặn.\nKhông phô trương, chỉ nhẹ nhàng để tôn lên nét thanh lịch của chính bạn. Một chiếc áo dài dành cho những ai muốn đẹp theo cách tinh tế nhất.",
+    "material": "Gấm thêu tay",
+    "primaryColor": "Be",
+    "colors": [
+      "Be"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/uploads/1763735309951_San_be_1.jpg"
+    ],
+    "collectionId": "c2",
+    "status": "new",
+    "sortOrder": 16,
+    "createdAt": "2024-11-03T10:00:00.000Z"
+  },
+  {
+    "name": "Áo Dài Vân",
+    "price": 580000,
+    "originalPrice": 0,
+    "description": "Áo dài Vân với họa tiết thêu tay tinh xảo, mang đến vẻ đẹp dịu dàng và quyến rũ.",
+    "images": [
+      "/uploads/1763742783358_z7094323488650_0e6ee994e8d487c75b57232f1ccc48a8.jpg",
+      "/uploads/1763742783360_z7094323493397_93aa21b214c132b29fc425ca039b4a58.jpg",
+      "/uploads/1763742783397_z7094323495177_c3091ad395352ee3e330fcdf8b4519b4.jpg"
+    ],
+    "videoUrl": "",
+    "shopeeLink": "",
+    "tiktokLink": "",
+    "zaloLink": "",
+    "material": "Gấm/Lụa",
+    "slug": "ao-dai-van",
+    "status": "in-stock",
+    "collectionId": "c3",
+    "primaryColor": "Hồng",
+    "colors": [
+      "Hồng"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "sortOrder": 1,
+    "createdAt": "2025-11-21T16:32:01.704Z",
+    "id": "1763742793307",
+    "isActive": true
+  },
+  {
+    "id": "20",
+    "name": "Áo Dài Trúc Mai",
+    "slug": "ao-dai-truc-mai",
+    "price": 650000,
+    "originalPrice": 890000,
+    "description": "Áo dài Trúc Mai mang hơi thở mùa xuân với họa tiết hoa mai vàng rực rỡ. Thiết kế hiện đại kết hợp cùng chất liệu lụa mềm mại, tạo nên vẻ đẹp thanh lịch và sang trọng.",
+    "material": "Lụa Nhật",
+    "primaryColor": "Vàng",
+    "colors": [
+      "Vàng",
+      "Trắng kem"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/uploads/1763742783354_San_hồng_1_-_Copy.jpg",
+      "/uploads/1763742783356_San_hồng_2_-_Copy.jpg"
+    ],
+    "collectionId": "c4",
+    "status": "new",
+    "sortOrder": 20,
+    "createdAt": "2024-11-01T10:00:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "21",
+    "name": "Áo Dài Cẩm Tú",
+    "slug": "ao-dai-cam-tu",
+    "price": 720000,
+    "originalPrice": 950000,
+    "description": "Cẩm Tú - sự kết hợp hoàn hảo giữa gấm thêu truyền thống và đường nét hiện đại. Mỗi chi tiết đều được chăm chút tỉ mỉ, tạo nên tác phẩm nghệ thuật trên tơ lụa.",
+    "material": "Gấm thêu tay",
+    "primaryColor": "Xanh",
+    "colors": [
+      "Xanh ngọc",
+      "Xanh navy"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/uploads/1763742783400_z7094323505454_4b041780558796794d2fb8ca6cb31cb9.jpg",
+      "/uploads/1763742783401_z7094323505613_52f0cec2272ddb9f4d7c2c5beba7d487.jpg"
+    ],
+    "collectionId": "c4",
+    "status": "in-stock",
+    "sortOrder": 21,
+    "createdAt": "2024-10-28T10:00:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "22",
+    "name": "Áo Dài Thu Vàng",
+    "slug": "ao-dai-thu-vang",
+    "price": 590000,
+    "originalPrice": 820000,
+    "description": "Thu Vàng - sắc vàng ấm áp của mùa thu Hà Nội. Thiết kế đơn giản nhưng tinh tế, phù hợp cho những buổi dạo phố hoặc sự kiện quan trọng.",
+    "material": "Lụa tơ tằm",
+    "primaryColor": "Vàng",
+    "colors": [
+      "Vàng gold",
+      "Vàng chanh"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/uploads/1763742783398_z7094323499193_e0533db78a1f7eb40a75b58bf501884e.jpg"
+    ],
+    "collectionId": "c4",
+    "status": "limited",
+    "sortOrder": 22,
+    "createdAt": "2024-10-25T10:00:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "23",
+    "name": "Áo Dài Hồng Phượng",
+    "slug": "ao-dai-hong-phuong",
+    "price": 780000,
+    "originalPrice": 1100000,
+    "description": "Hồng Phượng - thiết kế lấy cảm hứng từ hoa phượng đỏ rực rỡ. Gam màu hồng cam nổi bật, phù hợp cho những cô nàng yêu thích sự nổi bật và cá tính.",
+    "material": "Gấm Hàn Quốc",
+    "primaryColor": "Hồng",
+    "colors": [
+      "Hồng cam",
+      "Hồng đào"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/uploads/1763742783354_San_hồng_1_-_Copy.jpg",
+      "/uploads/1763742783356_San_hồng_2_-_Copy.jpg"
+    ],
+    "collectionId": "c5",
+    "status": "new",
+    "sortOrder": 23,
+    "createdAt": "2024-10-20T10:00:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "24",
+    "name": "Áo Dài Tím Hoa Anh Đào",
+    "slug": "ao-dai-tim-hoa-anh-dao",
+    "price": 690000,
+    "originalPrice": 920000,
+    "description": "Tím Hoa Anh Đào - sự lãng mạn của mùa xuân Nhật Bản được tái hiện trên áo dài Việt. Họa tiết hoa anh đào tinh xảo tạo điểm nhấn độc đáo.",
+    "material": "Lụa Nhật cao cấp",
+    "primaryColor": "Tím",
+    "colors": [
+      "Tím pastel",
+      "Tím lavender"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/uploads/1763742783397_z7094323495177_c3091ad395352ee3e330fcdf8b4519b4.jpg",
+      "/uploads/1763742783360_z7094323493397_93aa21b214c132b29fc425ca039b4a58.jpg"
+    ],
+    "collectionId": "c5",
+    "status": "in-stock",
+    "sortOrder": 24,
+    "createdAt": "2024-10-15T10:00:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "25",
+    "name": "Áo Dài Trắng Thiên Nga",
+    "slug": "ao-dai-trang-thien-nga",
+    "price": 850000,
+    "originalPrice": 1200000,
+    "description": "Trắng Thiên Nga - biểu tượng của sự thuần khiết và thanh lịch. Thiết kế tối giản nhưng sang trọng, phù hợp cho cô dâu hoặc các sự kiện trang trọng.",
+    "material": "Lụa trắng Ý",
+    "primaryColor": "Trắng",
+    "colors": [
+      "Trắng ivory",
+      "Trắng ngọc trai"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/uploads/1763742783358_z7094323488650_0e6ee994e8d487c75b57232f1ccc48a8.jpg"
+    ],
+    "collectionId": "c3",
+    "status": "pre-order",
+    "sortOrder": 25,
+    "createdAt": "2024-10-10T10:00:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "26",
+    "name": "Áo Dài Xanh Biển",
+    "slug": "ao-dai-xanh-bien",
+    "price": 620000,
+    "originalPrice": 850000,
+    "description": "Xanh Biển - màu xanh dương của biển cả bao la. Thiết kế đơn giản nhưng cuốn hút, mang lại cảm giác tươi mới và tự do.",
+    "material": "Voan lụa",
+    "primaryColor": "Xanh",
+    "colors": [
+      "Xanh dương",
+      "Xanh biển đậm"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/uploads/1763742783400_z7094323505454_4b041780558796794d2fb8ca6cb31cb9.jpg"
+    ],
+    "collectionId": "c5",
+    "status": "in-stock",
+    "sortOrder": 26,
+    "createdAt": "2024-10-05T10:00:00.000Z",
+    "isActive": true
+  },
+  {
+    "id": "27",
+    "name": "Áo Dài Đỏ Tươi",
+    "slug": "ao-dai-do-tuoi",
+    "price": 680000,
+    "originalPrice": 900000,
+    "description": "Đỏ Tươi - sắc đỏ rực rỡ mang đến may mắn và hạnh phúc. Thiết kế phù hợp cho dịp Tết, đám cưới hoặc các sự kiện quan trọng.",
+    "material": "Gấm lụa",
+    "primaryColor": "Đỏ",
+    "colors": [
+      "Đỏ tươi",
+      "Đỏ cherry"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/uploads/1763734866633_San_đỏ_1.jpg",
+      "/uploads/1763734871071_San_đỏ_2.jpg"
+    ],
+    "collectionId": "c2",
+    "status": "new",
+    "sortOrder": 27,
+    "createdAt": "2024-09-30T10:00:00.000Z",
+    "isActive": false
+  },
+  {
+    "id": "28",
+    "name": "Áo Dài Nâu Cafe",
+    "slug": "ao-dai-nau-cafe",
+    "price": 560000,
+    "originalPrice": 780000,
+    "description": "Nâu Cafe - màu nâu ấm áp và thanh lịch. Thiết kế hiện đại, phù hợp cho công sở hoặc dạo phố cuối tuần.",
+    "material": "Lụa cotton",
+    "primaryColor": "Nâu",
+    "colors": [
+      "Nâu cafe",
+      "Nâu caramel"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/uploads/1763735309951_San_be_1.jpg"
+    ],
+    "collectionId": "c4",
+    "status": "in-stock",
+    "sortOrder": 28,
+    "createdAt": "2024-09-25T10:00:00.000Z",
+    "isActive": false
+  },
+  {
+    "id": "29",
+    "name": "Áo Dài Hồng Nhạt",
+    "slug": "ao-dai-hong-nhat",
+    "price": 630000,
+    "originalPrice": 870000,
+    "description": "Hồng Nhạt - sự dịu dàng và nữ tính được thể hiện qua từng đường nét. Thiết kế tôn dáng, phù hợp với mọi lứa tuổi.",
+    "material": "Lụa tơ tằm",
+    "primaryColor": "Hồng",
+    "colors": [
+      "Hồng nhạt",
+      "Hồng phấn"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "images": [
+      "/uploads/1763735126830_San_hồng_1_-_Copy.jpg",
+      "/uploads/1763735133315_San_hồng_2_-_Copy.jpg"
+    ],
+    "collectionId": "c5",
+    "status": "in-stock",
+    "sortOrder": 29,
+    "createdAt": "2024-09-20T10:00:00.000Z",
+    "isActive": false
+  }
+]

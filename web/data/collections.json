@@ -1,0 +1,106 @@
+[
+  {
+    "id": "c2",
+    "name": "San",
+    "slug": "san",
+    "description": "Sự sang trọng, quý phái trong từng đường nét.",
+    "story": "Bộ sưu tập SAN lấy cảm hứng từ vẻ đẹp sang trọng, quý phái của người phụ nữ Việt. Mỗi tà áo dài là một câu chuyện về sự tinh tế, thanh lịch và đẳng cấp. Chất liệu cao cấp, đường may tỉ mỉ, họa tiết tinh xảo - tất cả hòa quyện tạo nên vẻ đẹp vượt thời gian.",
+    "thumbnailUrl": "/uploads/1763733498585_San_đỏ_1.jpg",
+    "coverImages": [
+      "/uploads/1763733498585_San_đỏ_1.jpg",
+      "/uploads/1763734866633_San_đỏ_1.jpg"
+    ],
+    "galleryImages": [
+      "/uploads/1763735126830_San_hồng_1_-_Copy.jpg",
+      "/uploads/1763735309951_San_be_1.jpg"
+    ],
+    "messengerLink": "https://m.me/100089059418106",
+    "productIds": [
+      "9",
+      "12",
+      "16",
+      "27"
+    ],
+    "status": "active",
+    "createdAt": "2025-11-20T10:00:00.000Z",
+    "updatedAt": "2025-11-21T19:04:46.910Z",
+    "tags": [
+      "Tết"
+    ]
+  },
+  {
+    "id": "c3",
+    "name": "Áo Dài Cưới - Đỏ Truyền Thống",
+    "slug": "ao-dai-cuoi-do-truyen-thong",
+    "description": "Lộng lẫy trong ngày trọng đại",
+    "story": "Ngày trọng đại của đời người xứng đáng có một bộ áo dài cưới hoàn hảo. Bộ sưu tập này tôn vinh nét đẹp truyền thống Việt Nam với sắc đỏ may mắn, họa tiết rồng phượng cầu kỳ và chất liệu gấm cao cấp. Mỗi chi tiết được chăm chút tỉ mỉ để tạo nên vẻ đẹp lộng lẫy cho cô dâu.",
+    "thumbnailUrl": "/uploads/1763733266119_z7094323505454_4b041780558796794d2fb8ca6cb31cb9.jpg",
+    "coverImages": [
+      "/uploads/1763733266119_z7094323505454_4b041780558796794d2fb8ca6cb31cb9.jpg",
+      "/uploads/1763742783400_z7094323505454_4b041780558796794d2fb8ca6cb31cb9.jpg"
+    ],
+    "galleryImages": [
+      "/uploads/1763742783358_z7094323488650_0e6ee994e8d487c75b57232f1ccc48a8.jpg"
+    ],
+    "messengerLink": "https://m.me/100089059418106",
+    "productIds": [
+      "1763742793307",
+      "25"
+    ],
+    "status": "active",
+    "createdAt": "2025-11-21T09:15:00.000Z",
+    "updatedAt": "2025-11-21T16:48:27.580Z"
+  },
+  {
+    "id": "c4",
+    "name": "Xuân Hạ",
+    "slug": "xuan-ha",
+    "description": "Rạng rỡ sắc xuân - Tươi mới sắc hạ",
+    "story": "Bộ sưu tập Xuân Hạ là sự kết hợp hoàn hảo giữa sắc vàng rực rỡ của mùa xuân và màu xanh tươi mát của mùa hạ. Mỗi thiết kế đều mang trong mình năng lượng tích cực, sự tươi mới và niềm vui sống. Từ họa tiết hoa mai vàng đến các gam màu pastel dịu nhẹ, Xuân Hạ là lựa chọn hoàn hảo cho những cô gái yêu thích sự trẻ trung, năng động nhưng vẫn giữ được nét đẹp truyền thống của áo dài Việt.",
+    "thumbnailUrl": "/uploads/1763742783354_San_hồng_1_-_Copy.jpg",
+    "coverImages": [
+      "/uploads/1763742783354_San_hồng_1_-_Copy.jpg",
+      "/uploads/1763742783356_San_hồng_2_-_Copy.jpg"
+    ],
+    "galleryImages": [
+      "/uploads/1763742783398_z7094323499193_e0533db78a1f7eb40a75b58bf501884e.jpg",
+      "/uploads/1763735309951_San_be_1.jpg"
+    ],
+    "messengerLink": "https://m.me/100089059418106",
+    "productIds": [
+      "20",
+      "21",
+      "22",
+      "28"
+    ],
+    "status": "active",
+    "createdAt": "2025-11-21T10:00:00.000Z",
+    "updatedAt": "2025-11-21T18:00:00.000Z"
+  },
+  {
+    "id": "c5",
+    "name": "Thu Đông Lãng Mạn",
+    "slug": "thu-dong-lang-man",
+    "description": "Dịu dàng sắc thu - Ấm áp sắc đông",
+    "story": "Thu Đông Lãng Mạn là bộ sưu tập dành cho những tâm hồn lãng mạn, yêu thích sự êm đềm và sâu lắng. Các gam màu chủ đạo như hồng phấn, tím lavender, xanh biển và hồng đào tạo nên một bức tranh mùa thu đông đầy cảm xúc. Mỗi thiết kế đều là một bài thơ về sự nhẹ nhàng, tinh tế và đầy nữ tính. Chất liệu lụa cao cấp kết hợp với các họa tiết hoa nhẹ nhàng, tạo nên vẻ đẹp thanh tao, phù hợp cho các dịp quan trọng hoặc những buổi dạo phố đầy lãng mạn.",
+    "thumbnailUrl": "/uploads/1763742783397_z7094323495177_c3091ad395352ee3e330fcdf8b4519b4.jpg",
+    "coverImages": [
+      "/uploads/1763742783397_z7094323495177_c3091ad395352ee3e330fcdf8b4519b4.jpg",
+      "/uploads/1763742783360_z7094323493397_93aa21b214c132b29fc425ca039b4a58.jpg"
+    ],
+    "galleryImages": [
+      "/uploads/1763735126830_San_hồng_1_-_Copy.jpg",
+      "/uploads/1763742783400_z7094323505454_4b041780558796794d2fb8ca6cb31cb9.jpg"
+    ],
+    "messengerLink": "https://m.me/100089059418106",
+    "productIds": [
+      "23",
+      "24",
+      "26",
+      "29"
+    ],
+    "status": "active",
+    "createdAt": "2025-11-21T11:00:00.000Z",
+    "updatedAt": "2025-11-21T18:00:00.000Z"
+  }
+]
