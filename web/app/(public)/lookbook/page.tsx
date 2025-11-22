@@ -1,17 +1,9 @@
 import Image from "next/image";
+import { getLookbookImages as fetchLookbookImages } from "@/lib/lookbook";
 
 async function getLookbookImages() {
     try {
-        const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3001';
-        const response = await fetch(`${baseUrl}/api/lookbook`, {
-            cache: 'no-store',
-        });
-        
-        if (!response.ok) {
-            throw new Error('Failed to fetch lookbook images');
-        }
-        
-        const data = await response.json();
+        const data = await fetchLookbookImages();
         // Only return active images, sorted by order
         return data
             .filter((img: any) => img.status === 'active')

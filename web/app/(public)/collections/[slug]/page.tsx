@@ -3,6 +3,8 @@ import Link from "next/link";
 import Image from "next/image";
 import { MessageCircle } from "lucide-react";
 import { PageViewTracker } from "@/components/tracking/page-view-tracker";
+import { getCollections as fetchCollections } from "@/lib/collections";
+import { getProducts as fetchProducts } from "@/lib/products";
 
 interface PageProps {
     params: Promise<{
@@ -12,13 +14,7 @@ interface PageProps {
 
 async function getCollections() {
     try {
-        const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3001';
-        const response = await fetch(`${baseUrl}/api/collections`, {
-            cache: 'no-store',
-        });
-        
-        if (!response.ok) throw new Error('Failed to fetch collections');
-        return await response.json();
+        return await fetchCollections();
     } catch (error) {
         console.error('Error fetching collections:', error);
         return [];
@@ -27,13 +23,7 @@ async function getCollections() {
 
 async function getProducts() {
     try {
-        const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3001';
-        const response = await fetch(`${baseUrl}/api/products`, {
-            cache: 'no-store',
-        });
-        
-        if (!response.ok) throw new Error('Failed to fetch products');
-        return await response.json();
+        return await fetchProducts();
     } catch (error) {
         console.error('Error fetching products:', error);
         return [];
